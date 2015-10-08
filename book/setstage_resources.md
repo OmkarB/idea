@@ -1,4 +1,4 @@
-##Solution Design Pitch 
+#Solution Design Pitch 
 
 A 30-minute pitch to present the work done in the Ready stage including the value proposition, product validation, competitive analysis, and market research. A venture is prepared to pitch when they have:
 
