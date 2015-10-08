@@ -1,5 +1,5 @@
 # Summary
 
 * [Preface](preface.md)
-* Coaching Resources
+* [Coaching Resources](coaching_resources.md)
 
