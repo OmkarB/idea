@@ -5,9 +5,9 @@ Coaches are the core of IDEA’s program, asking the right questions, providing 
 The resources and forms available to support your ventures in each stage are listed  on the following pages:
 
 Resource lists:
-* Ready - Customer Validation
-* Set - Business Model
-* Go - Traction and Scale
+* [Ready](readstage_resources.md) - Customer Validation
+* [Set](setstage_resources.md) - Business Model
+* [Go](go_resources.md) - Traction and Scale
 
 Pitch information:
 * [Solution Design](solution_design.md) - Moving from Ready to Set
