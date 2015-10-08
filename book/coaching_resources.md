@@ -1,4 +1,4 @@
-##Welcome to the IDEA Coaching page! 
+#Welcome to the IDEA Coaching page! 
 
 Coaches are the core of IDEA’s program, asking the right questions, providing support and resources to move ventures through the stage-gate process. 
 
