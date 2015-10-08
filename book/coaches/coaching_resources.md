@@ -10,13 +10,13 @@ Resource lists:
 * Go - Traction and Scale
 
 Pitch information:
-* Solution Design - Moving from Ready to Set
-* Business Model - Moving from Set to Go
+* [Solution Design](solution_design.md) - Moving from Ready to Set
+* [Business Model](business_model.md) - Moving from Set to Go
 
 
 If you have any questions or need help with anything reach out to Chris Denaro IDEA’s Head Coach or Evan Sutherland IDEA Operations lead on slack or by email. 
-Chris Denaro - denaro.chris@gmail.com
-Evan Sutherland - sutherland.ev@gmail.com
+* Chris Denaro - [denaro.chris@gmail.com](mailto:denaro.chris@gmail.com)
+* Evan Sutherland - [sutherland.ev@gmail.com](mailto:sutherland.ev@gmail.com)
 
 Workshops/Events
 The workshops for the next month are:
