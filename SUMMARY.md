@@ -5,4 +5,5 @@
 * [Coaching Resources](coaching_resources.md)
    * Ready Stage Resources
    * Ready Stage Resources
+   * Ready Stage Resources
 
