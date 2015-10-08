@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Coaching Resources](book/coaching_resources.md)
-   * [Ready Stage Resources](book/readystage_resources.md)
+   * [Ready Stage Resources](book/coaches/readystageresources_md.md)
    * [Solution Design Pitch](book/solution_design.md)
    * [Set Stage Resources](book/set_stage_resources.md)
 
