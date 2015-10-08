@@ -6,5 +6,4 @@
    * [Solution Design Pitch](book/coaches/solution_design.md)
    * [Set Stage Resources](book/coaches/setstage_resources.md)
    * [Business Model Pitch](book/coaches/business_model.md)
-       * Go Resources
 
