@@ -1,4 +1,4 @@
-##Ready Resources
+#Ready Resources
 
 ###Coaching Office hours
 As ventures work through the Ready Stage IDEA has Coaching Office Hours on Tuesday and Wednesday evenings from 7:00 - 9:00 in the Lab. This is a time for the venture to discuss their concept, receive feedback and get help on developing through the ready stage. 
