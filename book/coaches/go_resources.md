@@ -2,7 +2,7 @@
 All of the Set resources are also available to ventures in Go.
 
 ##Venture feature
-To be featured on IDEA’s website, please have your Go stage venture provide us with their logo and website information. Send to [idea@neu.edu](idea@neu.edu).
+To be featured on IDEA’s website, please have your Go stage venture provide us with their logo and website information. Send to [idea@neu.edu](mailto:idea@neu.edu).
 The reason we only feature Go ventures is because that is the stage a company typically has a consistent brand and web presence. 
 
 ##Gap Fund
