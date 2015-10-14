@@ -5,3 +5,4 @@ This stage in IDEA is about:
 * Developing a Minimum Viable Product/Service
 * A comprehensive Go-to-Market strategy
 * Beginning to understand your legal structure
+ 
