@@ -14,4 +14,5 @@
    * [Market Research](book/ready_stage/market_research.md)
    * [Pitching](book/ready_stage/pitching.md)
    * [Additional Resources](book/ready_stage/additional_resources.md)
+   * Target Customer Interview Guide
 
