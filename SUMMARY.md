@@ -7,5 +7,5 @@
    * [Set Stage Resources](book/coaches/setstage_resources.md)
    * [Business Model Pitch](book/coaches/business_model.md)
    * [Go Resources](book/coaches/go_resources.md)
-* Ready Stage
+* [Ready Stage](ready_stage.md)
 
