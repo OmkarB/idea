@@ -12,5 +12,5 @@
    * [Target Customer Interviews](book/ready_stage/target_customer_interviews.md)
    * [Solution Design/ User Experience](book/ready_stage/user_experience.md)
    * [Market Research](book/ready_stage/market_research.md)
-   * Pitching
+   * [Pitching](book/ready_stage/pitching.md)
 
