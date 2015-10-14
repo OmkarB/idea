@@ -11,4 +11,5 @@
    * [Getting Started](book/ready_stage/getting_started.md)
    * [Target Customer Interviews](book/ready_stage/target_customer_interviews.md)
    * [Solution Design/ User Experience](book/ready_stage/user_experience.md)
+   * Market Research
 
