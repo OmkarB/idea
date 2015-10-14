@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+   * Set Stage
 * [Coaching Resources](book/coaches/coaching_resources.md)
    * [Ready Stage Resources](book/coaches/readystage_resources.md)
    * [Solution Design Pitch](book/coaches/solution_design.md)
