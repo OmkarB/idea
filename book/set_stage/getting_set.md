@@ -12,5 +12,5 @@ Resources available to Set stage ventures:
 * [Prototype fund]()
 
 ###Moving to the Go stage
-More information on the Business Model Pitch. 
+More information on the [Business Model Pitch](business_model_pitch.md).
 
