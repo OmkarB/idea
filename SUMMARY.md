@@ -9,5 +9,4 @@
    * [Go Resources](book/coaches/go_resources.md)
 * [Ready Stage](book/ready_stage/ready_stage.md)
    * [Getting Started](book/ready_stage/getting_started.md)
-       * Target Customer Interviews
 
