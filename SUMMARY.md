@@ -17,5 +17,5 @@
    * [Target Customer Interview Guide](book/ready_stage/interview_guide.md)
 * [Set Stage](book/set_stage/setstage.md)
    * [Getting Started](book/set_stage/getting_set.md)
-   * Resources
+   * [Resources](book/set_stage/set_resources.md)
 
